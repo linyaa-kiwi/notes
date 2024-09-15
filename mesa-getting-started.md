@@ -152,6 +152,7 @@ sudo pacman -S \
     mesa-utils \
     valgrind \
     vulkan-devel \
+    vulkan-mesa-layers \
     vulkan-swrast
 
 # Install the Vulkan drivers below that match your gpus.
