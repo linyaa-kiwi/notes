@@ -65,7 +65,8 @@ The first item in the last has highest search priority.
 
 #### Runtime Environment
 
-This guide recommends installing a few projects into your home directory,
+This guide may recommend installing
+a few tools and libraries into your home directory,
 particularly into the XDG home prefix `~/.local`.
 Therefore the guide assumes that your runtime environment includes `~/.local`.
 
